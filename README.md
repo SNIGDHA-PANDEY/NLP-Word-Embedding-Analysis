@@ -1,7 +1,5 @@
 # NLP-Word-Embedding-Analysis
 
-# NLP-Word-Embedding-Analysis
-
 This repository serves as a deep dive into the intricacies of word embeddings within Natural Language Processing (NLP), focusing on the implementation and analysis of Word2Vec and GloVe models. It's designed to not only facilitate an understanding of word vector generation and manipulation but also to provide insights into how these vectors represent linguistic concepts.
 
 **Objectives**:
